@@ -12,7 +12,7 @@ Spring 2022
 Jan 10, 2022 - Apr 30, 2022  
 
 ## Important dates for the last couple weeks
-- Project final submission due extended to May 4 4:59pm. Check the [project page](https://ece595.qiguo.org/assignments/project.html).
+- Project final submission due extended to May 4 4:59pm. Check the [project page](https://ece595-s2022.qiguo.org/assignments/project.html).
 
 ## Course Information
 **Instructor**: [Prof. Qi Guo](https://qiguo.org)  
@@ -38,7 +38,7 @@ Varun Aggarwal. WedTh 10:45-11:45am. WANG 2014.
 
 <!-- ## Course Correspondences
 There are several ways this course will send out correspondences. Their usages are described below.  
-[Main Site:](https://ece595.qiguo.org/) Course information, homework posts, lecture notes/handouts, announcements.   
+[Main Site:](https://ece595-s2022.qiguo.org/) Course information, homework posts, lecture notes/handouts, announcements.   
 [BrightSpace:](https://purdue.brightspace.com/d2l/home/460528) Homework solutions, announcements.  
 [GradeScope:](https://www.gradescope.com/courses/345155) Homework/quiz/final project submission, grades.  
 [Piazza:](https://piazza.com/purdue/spring2022/ece595stat598) This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. Please let me know if you have trouble accessing Piazza.  
