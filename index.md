@@ -7,7 +7,7 @@ title: Home
 permalink: /
 nav_order: 1
 ---
-# ECE 595 / STAT 598 Machine Learning
+# \[Archived\] ECE 595 / STAT 598 Machine Learning
 Spring 2022  
 Jan 10, 2022 - Apr 30, 2022  
 
